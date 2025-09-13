@@ -166,5 +166,5 @@
   { "group": "ATRX", "variable": "likely_benign", "value": 0.273 }
   { "group": "ATRX", "variable": "likely_pathogenic", "value": 0 },
   { "group": "ATRX", "variable": "ambiguous", "value": 0 },
-  { "group": "ATRX", "variable": "unknown", "value": 0 },
+  { "group": "ATRX", "variable": "unknown", "value": 0 }
 ]
